@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adatirei-nui:adatirei-nui_block"
+    }
+  ],
+  "result": {
+    "item": "adatirei-nui:adatirei-nui_block_smile",
+    "count": 1
+  }
+}

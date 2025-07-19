@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "adatirei-nui:block/adatirei-nui_block_smile", "y": 180 },
+    "facing=south": { "model": "adatirei-nui:block/adatirei-nui_block_smile" },
+    "facing=east":  { "model": "adatirei-nui:block/adatirei-nui_block_smile", "y": 270 },
+    "facing=west":  { "model": "adatirei-nui:block/adatirei-nui_block_smile", "y": 90 }
+  }
+}

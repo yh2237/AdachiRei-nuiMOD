@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "adatirei-nui:adatirei-nui_block_smile"
+        }
+      ]
+    }
+  ]
+}
