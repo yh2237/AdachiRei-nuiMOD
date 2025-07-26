@@ -1,5 +1,17 @@
 # AdachiRei-nui
 
+### 対応環境
+
+- ModLoader: Fabric<br>
+- MinecraftVersion: 1.20~1.20.4<br>
+- 前提Mod: FabricAPI<br>
+
+---
+
+- [Download Latest](https://github.com/yh2237/AdachiRei-nuiMOD/releases/latest)
+- [Download v0.0.1](https://github.com/yh2237/AdachiRei-nuiMOD/releases/tag/v0.0.1)
+---
+
 以下の画像の3つのブロックが追加されます
 
 <img src="https://github.com/user-attachments/assets/941529e5-2c17-4cce-9e98-7fe34b70b9b1" />
