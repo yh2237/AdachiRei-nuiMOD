@@ -9,6 +9,7 @@
 ---
 
 - [Download Latest](https://github.com/yh2237/AdachiRei-nuiMOD/releases/latest)
+- [Download v0.0.2](https://github.com/yh2237/AdachiRei-nuiMOD/releases/tag/v0.0.2)
 - [Download v0.0.1](https://github.com/yh2237/AdachiRei-nuiMOD/releases/tag/v0.0.1)
 ---
 
