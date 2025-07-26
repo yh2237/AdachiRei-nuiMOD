@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "adachirei-nui",
+  "version": "${version}",
+  "name": "AdachiRei-nui",
+  "description": "足立レイのぬいぐるみを追加する",
+  "authors": ["yh"],
+  "contact": {
+    "homepage": "https://github.com/yh2237/AdachiRei-nuiMOD",
+    "sources": "https://github.com/yh2237/AdachiRei-nuiMOD",
+    "issues": "https://github.com/yh2237/AdachiRei-nuiMOD/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/adachirei-nui/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net._2237yh.adachireiNui.client.AdachireiNuiDataGenerator"
+    ],
+    "client": [
+      "net._2237yh.adachireiNui.client.AdachireiNuiClient"
+    ],
+    "main": [
+      "net._2237yh.adachireiNui.AdachireiNui"
+    ]
+  },
+  "mixins": [
+    "adachirei-nui.mixins.json",
+    {
+      "config": "adachirei-nui.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": ">=1.20 <=1.20.4",
+    "fabric": "*"
+  }
+}
