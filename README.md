@@ -46,6 +46,15 @@
 - [@missile_39](https://x.com/missile_39)
 - [@adachirei0](https://x.com/adachirei0)
 - [@Molmax0710](https://x.com/Molmax0710)
+
 ---
+
+### ライセンス
+
+- [ソースコードのライセンス](./LICENSE)
+- [アセットのライセンス](./docs/ASSETS_LICENSE.md)
+
+---
+
 
 ご質問等ございましたらお気軽に[DM](https://x.com/2237yh)まで
